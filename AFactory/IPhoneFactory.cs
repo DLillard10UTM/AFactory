@@ -4,6 +4,12 @@ using System.Text;
 
 namespace AFactory
 {
+
+/*
+ * Author: Danny Lillard
+ * Date: 2/3/2020
+ * Description: Factory implementations.
+ */
     interface IPhoneFactory
     {
         public ISmart getSmart();

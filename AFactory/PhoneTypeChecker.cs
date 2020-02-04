@@ -4,6 +4,12 @@ using System.Text;
 
 namespace AFactory
 {
+
+ /*
+  * Author: Danny Lillard
+  * Date: 2/3/2020
+  * Description: The creator of factories for the AFactory Project.
+  */ 
     enum Manufacturers
     {
         SAMSUNG,
